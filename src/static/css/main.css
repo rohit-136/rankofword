@@ -1,0 +1,30 @@
+body{
+	background: orange;
+
+}
+#main_part{
+	background: yellow;
+	box-shadow: 4px 4px 5px black;
+}
+#main_part{
+	margin-top:200px;
+	width:800px;
+	margin:auto;
+	padding:30px;
+}
+#main_part h2{
+	text-align: center;
+	font-family: algerian;
+	font-size=36;
+	font-weight: bold;
+	color:green;
+
+}
+#main_part label{
+ font-weight: bold;
+}
+#main_part input[type="text"]{
+	height:50px;
+	padding:3px;
+
+}
